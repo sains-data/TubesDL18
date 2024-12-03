@@ -1,4 +1,4 @@
-# Team [18] _Deep Learning_ - Analisis Prediksi Perbandingan Suhu Baterai Li-Ion Berdasarkan Voltase Menggunakan Metode RNN dan GRU
+# Kelompok [18] _Deep Learning_ - Analisis Prediksi Perbandingan Suhu Baterai Li-Ion Berdasarkan Voltase Menggunakan Metode RNN dan GRU
 Proyek ini dikembangkan oleh Team-X dalam rangka tugas besar mata kuliah Deep Learning, dengan fokus pada analisis prediksi suhu baterai Li-Ion menggunakan dua metode neural network: Recurrent Neural Network (RNN) dan Gated Recurrent Unit (GRU). Penelitian ini bertujuan untuk memprediksi suhu baterai Li-Ion berdasarkan voltase untuk meningkatkan pengelolaan suhu dan keselamatan baterai.
 
 ![Gambar Baterai Li-Ion](https://cdn1-production-images-kly.akamaized.net/mgrEiHs346Rtj1GNcmrIVr7XQfM=/1200x675/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/34329/original/ion-130812b.jpg)
