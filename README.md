@@ -60,11 +60,11 @@ Dataset yang digunakan dalam penelitian ini terdiri dari data pengukuran suhu da
 
 ## 👥 Kontibutor
 * Annisa Novantika - [Github](https://github.com/annisanovantika)
-* Sylviani Primaastuti Ananda - [Github](https://github.com/sylviani-prima)
-* Rahmat Putra Aji - [Github](https://github.com/rahmatputra)
-* Nadia Silvani - [Github](https://github.com/nadiasilvani)
-* Jelli Kurnilia - [Github](https://github.com/jellikurnilia)
-* Muhammad Fathir Fadillah - [Github](https://github.com/fathirfadil)
+* Sylviani Primaastuti Ananda - [Github](https://github.com/sylvianipa)
+* Rahmat Putra Aji - [Github](https://github.com/RahmatPa)
+* Nadia Silvani - [Github](https://github.com/naddslvn)
+* Jelli Kurnilia - [Github](https://github.com/JelliKurnilia)
+* Muhammad Fathir Fadillah - [Github](https://github.com/fadillah180403)
 
 ## 📫 Kontak
 Jika ada pertanyaan, silakan hubungi:
