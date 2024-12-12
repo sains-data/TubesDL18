@@ -12,10 +12,10 @@ Proyek ini dikembangkan oleh Team-X dalam rangka tugas besar mata kuliah Deep Le
 6. Muhammad Fathir Fadillah (121450098)
 
 ## 🚀 Tujuan Proyek
-Penelitian ini bertujuan untuk membandingkan kinerja model RNN dan GRU dalam memprediksi suhu baterai Li-Ion berdasarkan parameter voltase. Tujuan utama dari proyek ini adalah untuk memberikan prediksi yang lebih akurat dan stabil dalam memonitor suhu baterai.
+Penelitian ini bertujuan untuk membandingkan kinerja model RNN dan GRU dalam memprediksi suhu baterai Li-Ion Polymer berdasarkan parameter voltase. Tujuan utama dari proyek ini adalah untuk memberikan prediksi yang lebih akurat dan stabil dalam memonitor suhu baterai.
 
 ## 📂 Dataset
-Dataset yang digunakan dalam penelitian ini terdiri dari data pengukuran suhu dan voltase baterai Li-Ion yang diperoleh dari pengujian pada perangkat Infinix X6739, dengan total 720 sampel data.
+Dataset yang digunakan dalam penelitian ini terdiri dari data pengukuran suhu dan voltase baterai Li-Ion Polymer yang diperoleh dari pengujian pada perangkat Infinix X6739, dengan total 720 sampel data.
 
 **Link Dataset**: [Dataset Pengukuran Suhu dan Voltase](URL_Dataset)
 
@@ -31,11 +31,12 @@ Dataset yang digunakan dalam penelitian ini terdiri dari data pengukuran suhu da
 ## 📊 Metodologi
 1. **Preprocessing Data**: Data voltase dan suhu diproses untuk digunakan dalam pelatihan model.
 2. **Pelatihan Model**: Menggunakan RNN dan GRU dengan kombinasi parameter seperti epoch, learning rate, dan jumlah neuron.
-3. **Evaluasi Model**: Menggunakan Root Mean Square Error (RMSE) untuk mengukur performa model dan konsistensi hasil.
+3. **Evaluasi Model**: Menggunakan Mean Square Error (MSE) untuk mengukur seberapa baik model bekerja atas data validasi.
+4. **Pengecekan Train-Val Loss** : Nilai validation dan train loss dicek sepanjang berjalannya epoch baik untuk kombinasi terbaik untuk RNN maupun GRU untuk mengecek apakah kedua model dengan kombinasi terbaiknya
 
 ## 📈 Hasil yang Diharapkan
-* Akurasi prediksi suhu baterai dengan RMSE < 0.5°C.
-* Model yang dapat memberikan prediksi suhu dengan kestabilan yang tinggi pada kondisi yang berubah.
+* Mendapatkan model dengan kombinasi parameter terbaiknya yang unggul dibandingkan yang lain baik saat pelatihan sepanjang epoch maupun pengujiannya atas data tes.
+* Hasil prediksi suhu baterai lithium-ion polymer berdasarkan voltase menggunakan model dengan kombinasi terbaiknya.
 
 ## Flowchart 
 ![Deskripsi Gambar](URL_Gambar_Flowchart)
