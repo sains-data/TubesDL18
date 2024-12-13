@@ -35,7 +35,7 @@ Dataset yang digunakan dalam penelitian ini terdiri dari data pengukuran suhu da
 4. **Pengecekan Train-Val Loss** : Nilai validation dan train loss dicek sepanjang berjalannya epoch baik untuk kombinasi terbaik untuk RNN maupun GRU untuk mengecek apakah kedua model dengan kombinasi terbaiknya
 
 ## 📈 Hasil yang Diharapkan
-* Mendapatkan model dengan kombinasi parameter terbaiknya yang unggul dibandingkan yang lain baik saat pelatihan sepanjang epoch maupun pengujiannya atas data tes.
+* Mendapatkan model dengan kombinasi hyper parameter terbaiknya yang unggul dibandingkan yang lain baik saat pelatihan sepanjang epoch maupun pengujiannya atas data tes.
 * Hasil prediksi suhu baterai lithium-ion polymer berdasarkan voltase menggunakan model dengan kombinasi terbaiknya.
 
 ## Flowchart 
