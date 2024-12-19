@@ -17,7 +17,7 @@ Penelitian ini bertujuan untuk membandingkan kinerja model RNN dan GRU dalam mem
 ## 📂 Dataset
 Dataset yang digunakan dalam penelitian ini terdiri dari data pengukuran suhu dan voltase baterai Li-Ion Polymer yang diperoleh dari pengujian pada perangkat Infinix X6739, dengan total 720 sampel data.
 
-**Link Dataset**: [Dataset Pengukuran Suhu dan Voltase](URL_Dataset)
+**Link Dataset**: [Dataset Pengukuran Suhu dan Voltase](https://docs.google.com/spreadsheets/d/1uihDR-5KckGdAxGGMP_xK1el3Z62sXtb/edit?usp=drive_link&ouid=101913760185564916259&rtpof=true&sd=true)
 
 ## 🛠️ Teknologi yang Digunakan
 * **Python** untuk pemrograman
