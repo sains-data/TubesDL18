@@ -39,7 +39,7 @@ Dataset yang digunakan dalam penelitian ini terdiri dari data pengukuran suhu da
 * Hasil prediksi suhu baterai lithium-ion polymer berdasarkan voltase menggunakan model dengan kombinasi terbaiknya.
 
 ## Flowchart 
-![Deskripsi Gambar](URL_Gambar_Flowchart)
+![Deskripsi Gambar](https://raw.githubusercontent.com/sains-data/TubesDL18/refs/heads/main/Flowchart.png)
 
 ## 🧑‍💻 Cara Menjalankan Proyek
 1. **Clone repositori**:
